@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1603142438 source:e:\escritorio\programacion\tps\tp3\pila_dinamica\main.c
+	"Pila.h"
+	"funciones_varias.h"
+
+1603056156 e:\escritorio\programacion\tps\tp3\pila_dinamica\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1603056170 source:e:\escritorio\programacion\tps\tp3\pila_dinamica\pila.c
+	"Pila.h"
+
+1603140733 e:\escritorio\programacion\tps\tp3\pila_dinamica\funciones_varias.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1603142362 source:e:\escritorio\programacion\tps\tp3\pila_dinamica\funciones_varias.c
+	"funciones_varias.h"
+	"Pila.h"
+
