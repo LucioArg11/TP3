@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1603577943 source:e:\escritorio\programacion\tps\tp3\lista\lista.c
+	"Lista.h"
+
+1603577863 source:e:\escritorio\programacion\tps\tp3\lista\main.c
+	"Lista.h"
+
+1603575498 e:\escritorio\programacion\tps\tp3\lista\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

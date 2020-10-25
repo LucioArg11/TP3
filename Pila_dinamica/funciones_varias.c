@@ -23,7 +23,7 @@ int ordena_vector_pilas(void *v,unsigned cant_ele,
         }
 
         while((!pila_vacia(&p2)) &&
-              ((ver_tope(&p2,&tope2,sizeof(v))||
+              ((ver_tope(&p2,&tope2,sizeof(v))!=0||
                 comparar(&tope2,aux)<0)))
         {
             if(comparar(&tope2,aux)<0)

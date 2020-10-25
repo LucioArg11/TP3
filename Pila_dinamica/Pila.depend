@@ -11,12 +11,19 @@
 1603056170 source:e:\escritorio\programacion\tps\tp3\pila_dinamica\pila.c
 	"Pila.h"
 
-1603140733 e:\escritorio\programacion\tps\tp3\pila_dinamica\funciones_varias.h
+1603144456 e:\escritorio\programacion\tps\tp3\pila_dinamica\funciones_varias.h
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 
-1603142362 source:e:\escritorio\programacion\tps\tp3\pila_dinamica\funciones_varias.c
+1603163604 source:e:\escritorio\programacion\tps\tp3\pila_dinamica\funciones_varias.c
 	"funciones_varias.h"
 	"Pila.h"
+
+1603163273 source:e:\escritorio\programacion\tps\tp3\pila_dinamica\pila_estatica.c
+	"Pila_estatica.h"
+
+1603163820 e:\escritorio\programacion\tps\tp3\pila_dinamica\pila_estatica.h
+	<stdio.h>
+	<stdlib.h>
 
